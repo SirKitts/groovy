@@ -1,5 +1,6 @@
 import groovy.swing.*
 import javax.swing.event.*
+
 def swingBuilder = new SwingBuilder()
 def frame
 
